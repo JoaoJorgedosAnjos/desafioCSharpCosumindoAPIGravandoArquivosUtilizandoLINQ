@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/bin/Debug/net8.0/Desafio01
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/bin/Debug/net8.0/Desafio01.deps.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/bin/Debug/net8.0/Desafio01.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/bin/Debug/net8.0/Desafio01.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/bin/Debug/net8.0/Desafio01.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/obj/Debug/net8.0/Desafio01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/obj/Debug/net8.0/Desafio01.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/obj/Debug/net8.0/Desafio01.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/obj/Debug/net8.0/Desafio01.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/obj/Debug/net8.0/Desafio01.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/obj/Debug/net8.0/refint/Desafio01.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/obj/Debug/net8.0/Desafio01.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/obj/Debug/net8.0/Desafio01.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/desafioCSharpCosumindoAPIGravandoArquivosUtilizandoLINQ/Desafio01/obj/Debug/net8.0/ref/Desafio01.dll
